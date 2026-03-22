@@ -1,1 +1,0 @@
-# Projekt-Textov-analyz-tor
